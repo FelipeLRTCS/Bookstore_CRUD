@@ -10,7 +10,6 @@ import java.util.List;
 
 public class Bookstore{
 	
-	//TODO in remove cases set something to be an alternative to null parameters;
 	//TODO Update enum method to keep up with the update of stock
 	//TODO make connection to a database(Postgres);
 	
